@@ -1,0 +1,1 @@
+vendas = {1: {'data': '21/9/2023', 'categoria': 'Dinheiro', 'produto': 'Queijo', 'quantia': 1.0, 'preco': 32.0, 'nome': None, 'tipo': 'U'}, 2: {'data': '21/9/2023', 'categoria': 'Dinheiro', 'produto': 'Filé de Frango', 'quantia': 1.0, 'preco': 24.0, 'nome': None, 'tipo': 'U'}}

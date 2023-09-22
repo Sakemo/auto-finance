@@ -1,0 +1,52 @@
+[
+    {
+        'Receita Total': 120.5,
+        'Custos Totais': 32.0,
+        'Despesas Operacionais': 12.75,
+        'Outros Gastos': 5.25,
+        'Lucro Bruto': 85.75,
+        'Lucro Liquido': 78.5,
+        'Pessoas Atendidas': 5
+    },
+    {
+        'Ativos': {
+            'Contas a Receber': 5000.0,
+            'Contas Atrasadas': 250.0,
+            'Lucratividade de Estoque': 450000.0,
+            'Lucratividade por Produto': [
+                ('Produto A', 12.5, 25.0),
+                ('Produto B', -5.0, -10.0),
+                ('Produto C', 8.0, 16.0),
+                ('Produto D', -3.75, -7.5)
+            ],
+            'Total a Receber': 5250.0
+        },
+        'Passivos': {
+            'Despesas a Pagar': 20.0,
+            'Investimento a Pagar': 15.5,
+            'Total de Dívidas': 35.5
+        },
+        'Patrimônio': {
+            'Bruto': {
+                'Contas a Receber': 5000.0,
+                'Contas Atrasadas': 250.0,
+                'Lucratividade de Estoque': 450000.0,
+                'Lucratividade por Produto': [
+                    ('Produto A', 12.5, 25.0),
+                    ('Produto B', -5.0, -10.0),
+                    ('Produto C', 8.0, 16.0),
+                    ('Produto D', -3.75, -7.5)
+                ],
+                'Total a Receber': 5250.0
+            },
+            'Líquido': 5214.5
+        }
+    },
+    {
+        'Fluxo de Caixa': 25.0,
+        'Fluxo Positivo': 30.0,
+        'Fluxo Negativo': -5.0,
+        'Fluxo Investido': -15.0
+    },
+    55.0
+]
