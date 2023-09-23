@@ -1,4 +1,4 @@
-# Projeto de Controle de Vendas e Gestão Empresarial ##
+# FLICK : Projeto de Controle de Vendas e Gestão Empresarial ##
 
 Este projeto em Python é uma aplicação completa de registro de vendas, produtos e clientes, além de fornecer uma visão profissional e abrangente das finanças da sua empresa. Através de uma interface simples e intuitiva, você poderá registrar vendas de forma rápida e prática, bem como gerenciar seus produtos e clientes de maneira eficiente.
 
