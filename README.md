@@ -38,9 +38,10 @@ Este projeto, denominado FLICK - Controle de Vendas e Gestão Empresarial, está
 
 ## Acesso ao Aplicativo
 
-### Créditos
-Este projeto foi desenvolvido por King | Alex K.M. Chaves.
-
 O FLICK estará disponível para download e aquisição por meio de um link que será disponibilizado diretamente neste repositório do GitHub. Assim, os usuários poderão acessar facilmente a versão comercial do aplicativo e desfrutar de todas as funcionalidades poderosas que ele oferece para otimizar a gestão de suas vendas e finanças empresariais.
 
 Fique atento às atualizações deste repositório para obter informações sobre o lançamento comercial do FLICK e como adquirir sua cópia para melhorar a eficiência e o controle financeiro de sua empresa.
+
+### Créditos
+Este projeto foi desenvolvido por King | Alex K.M. Chaves.
+
