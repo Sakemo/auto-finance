@@ -31,3 +31,13 @@ Este projeto em Python é uma aplicação completa de registro de vendas, produt
    - Rendimento.
    - Capital de giro.
    - Capital acumulado.
+   - 
+## Distribuição Comercial
+
+Este projeto, denominado FLICK - Controle de Vendas e Gestão Empresarial, está sendo desenvolvido com o objetivo de oferecer uma solução completa para o registro de vendas e a gestão financeira de empresas. É importante destacar que o FLICK será distribuído de forma comercial ao ser finalizado. Isso significa que, após o desenvolvimento completo da aplicação, os interessados poderão adquirir uma licença para utilizá-lo em suas empresas.
+
+## Acesso ao Aplicativo
+
+O FLICK estará disponível para download e aquisição por meio de um link que será disponibilizado diretamente neste repositório do GitHub. Assim, os usuários poderão acessar facilmente a versão comercial do aplicativo e desfrutar de todas as funcionalidades poderosas que ele oferece para otimizar a gestão de suas vendas e finanças empresariais.
+
+Fique atento às atualizações deste repositório para obter informações sobre o lançamento comercial do FLICK e como adquirir sua cópia para melhorar a eficiência e o controle financeiro de sua empresa.
